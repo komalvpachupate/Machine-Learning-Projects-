@@ -6,4 +6,3 @@
 
 **Metric** for evaluation will be f1-score
 
-**Strealite app** streamlite run app.py
